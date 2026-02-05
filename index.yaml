@@ -3,6 +3,16 @@ entries:
   custom-scheduler-eks:
   - apiVersion: v2
     appVersion: 1.17.0
+    created: "2026-02-05T01:49:46.136300212Z"
+    description: A Helm chart for Kubernetes
+    digest: 509ade80864a667cceca3005b45229d991dde4f5dc134d78b616c95b3dad53b5
+    name: custom-scheduler-eks
+    type: application
+    urls:
+    - https://github.com/aws-samples/custom-scheduler-eks/releases/download/custom-scheduler-eks-0.2.6/custom-scheduler-eks-0.2.6.tgz
+    version: 0.2.6
+  - apiVersion: v2
+    appVersion: 1.17.0
     created: "2026-01-30T05:42:14.113236098Z"
     description: A Helm chart for Kubernetes
     digest: 63c87bc1175a00db58db312fa0ebb40bd9c9487e72d7d0b5a4925b9761950640
@@ -61,4 +71,4 @@ entries:
     urls:
     - https://github.com/aws-samples/custom-scheduler-eks/releases/download/custom-scheduler-eks-0.1.0/custom-scheduler-eks-0.1.0.tgz
     version: 0.2.0
-generated: "2026-01-30T05:42:14.113263019Z"
+generated: "2026-02-05T01:49:46.136329788Z"
