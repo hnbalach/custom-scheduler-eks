@@ -41,7 +41,7 @@ spec:
         - name: {{ .Chart.Name }}
           command:
           - /usr/local/bin/kube-scheduler
-          - --bind-address={{ .Values.bindAddress }}
+          - "--bind-address={{ .Values.bindAddress }}"
           - --config=/etc/kubernetes/custom-k8s-scheduler/custom-scheduler-eks-config.yaml
           - --v={{ .Values.logLevel }}
           securityContext:
