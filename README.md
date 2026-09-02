@@ -1,5 +1,5 @@
 > [!NOTE]  
-> Amazon EKS now supports advanced Kubernetes control plane configuration parameters. See https://docs.aws.amazon.com/eks/latest/userguide/control-plane-configuration.html
+> ***Amazon EKS now supports advanced Kubernetes control plane configuration parameters. See https://docs.aws.amazon.com/eks/latest/userguide/control-plane-configuration.html***
 
 ## Custom Scheduler for Amazon EKS with Binpacking
 
